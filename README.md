@@ -1,6 +1,6 @@
 ## Pranav Bhatia
 
-I'm a senior software engineer based in Dallas, Texas, with nine years building
+I'm a senior software engineer based in Austin, Texas, with nine years building
 enterprise web applications and client-facing platforms. Most of my work is
 TypeScript and React on the front end, Java and Node.js behind it, deployed on AWS
 and OpenShift. I'm currently working through local-first AI engineering — Flask,
